@@ -5,15 +5,15 @@
     "#![TransparentWall.Resources.description.md]",
     "Makes the walls transparent"
   ],
-  "gameVersion": "1.13.4",
+  "gameVersion": "1.16.1",
   "icon": "TransparentWall.Resources.icon.png",
   "id": "TransparentWall",
   "name": "TransparentWall",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "dependsOn": {
-    "BSIPA":  "^4.1.4",
-    "BeatSaberMarkupLanguage": "^1.5.1",
-    "BS Utils": "^1.8.0"
+    "BSIPA":  "^4.1.6",
+    "BeatSaberMarkupLanguage": "^1.5.3",
+    "BS Utils": "^1.10.0"
   },
   "links": {
     "project-home": "https://github.com/Pespiri/BSTransparentWall",
